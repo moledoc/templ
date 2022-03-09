@@ -1,0 +1,5 @@
+This is the ${param} test.
+This line does not have param.
+This line has another param (${test}) in it.
+This is line has two params: ${this} and ${that}.
+This line does not have param2.
