@@ -1,5 +1,5 @@
 // Package templ implements tools to parse a string or file template,
-// where parameters inside ${} are substituted with given values.
+// where parameters inside `${}` are substituted with given values.
 // Substitution values must be provided via a `map`.
 package templ
 
